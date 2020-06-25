@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SudokuTest5" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SudokuTest5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SudokuTest5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Cases.h" />
+		<Unit filename="include/Cases_Simples.h" />
+		<Unit filename="include/Coup.h" />
+		<Unit filename="include/Generateur.h" />
+		<Unit filename="include/Generateur_1.h" />
+		<Unit filename="include/Generateur_Saisie.h" />
+		<Unit filename="include/Joueur.h" />
+		<Unit filename="include/Joueur_Humain_Assiste.h" />
+		<Unit filename="include/Joueur_Humain_NonAssistee.h" />
+		<Unit filename="include/Machine_1.h" />
+		<Unit filename="include/Machine_2.h" />
+		<Unit filename="include/Machine_3.h" />
+		<Unit filename="include/Machine_4.h" />
+		<Unit filename="include/Partie.h" />
+		<Unit filename="include/Sudoku.h" />
+		<Unit filename="include/termcolor.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Cases.cpp" />
+		<Unit filename="src/Cases_Simples.cpp" />
+		<Unit filename="src/Coup.cpp" />
+		<Unit filename="src/Generateur.cpp" />
+		<Unit filename="src/Generateur_1.cpp" />
+		<Unit filename="src/Generateur_Saisie.cpp" />
+		<Unit filename="src/Joueur.cpp" />
+		<Unit filename="src/Joueur_Humain_Assiste.cpp" />
+		<Unit filename="src/Joueur_Humain_NonAssistee.cpp" />
+		<Unit filename="src/Machine_1.cpp" />
+		<Unit filename="src/Machine_2.cpp" />
+		<Unit filename="src/Machine_3.cpp" />
+		<Unit filename="src/Machine_4.cpp" />
+		<Unit filename="src/Partie.cpp" />
+		<Unit filename="src/Sudoku.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,641 @@
+# depslib dependency file v1.0
+1526147747 source:c:\users\bouaouina\documents\sudokutest5\main.cpp
+	<iostream>
+	"Partie.h"
+
+1526169018 c:\users\bouaouina\documents\sudokutest5\include\partie.h
+	<fstream>
+	<string>
+	<cstdlib>
+	"Sudoku.h"
+	"Joueur_Humain_Assiste.h"
+	"Joueur_Humain_NonAssistee.h"
+	"Machine_1.h"
+	"Generateur_1.h"
+	"Generateur_Saisie.h"
+	"Machine_2.h"
+	"Machine_3.h"
+	"Generateur_2.h"
+	"Machine_4.h"
+
+1526167515 c:\users\bouaouina\documents\sudokutest5\include\sudoku.h
+	<iostream>
+	<termcolor.hpp>
+	"Coup.h"
+	"Cases.h"
+
+1526128319 c:\users\bouaouina\documents\sudokutest5\include\coup.h
+
+1526131254 c:\users\bouaouina\documents\sudokutest5\include\cases.h
+	<vector>
+
+1526147678 c:\users\bouaouina\documents\sudokutest5\include\joueur_humain_assiste.h
+	<iostream>
+	"Joueur.h"
+
+1526147638 c:\users\bouaouina\documents\sudokutest5\include\joueur.h
+	"Sudoku.h"
+
+1526147678 c:\users\bouaouina\documents\sudokutest5\include\joueur_humain_nonassistee.h
+	<iostream>
+	"Joueur.h"
+
+1526147638 c:\users\bouaouina\documents\sudokutest5\include\machine_1.h
+	"Joueur.h"
+
+1526153747 c:\users\bouaouina\documents\sudokutest5\include\generateur_1.h
+	<ctime>
+	<cstdlib>
+	"Generateur.h"
+
+1526131351 c:\users\bouaouina\documents\sudokutest5\include\generateur.h
+	"Sudoku.h"
+
+1526131478 c:\users\bouaouina\documents\sudokutest5\include\generateur_saisie.h
+	<iostream>
+	"Generateur.h"
+
+1526128256 source:c:\users\bouaouina\documents\sudokutest5\src\cases.cpp
+	"Cases.h"
+
+1526128328 source:c:\users\bouaouina\documents\sudokutest5\src\coup.cpp
+	"Coup.h"
+
+1526131026 source:c:\users\bouaouina\documents\sudokutest5\src\generateur.cpp
+	"Generateur.h"
+
+1526165598 source:c:\users\bouaouina\documents\sudokutest5\src\generateur_1.cpp
+	"Generateur_1.h"
+
+1526131433 source:c:\users\bouaouina\documents\sudokutest5\src\generateur_saisie.cpp
+	"Generateur_Saisie.h"
+
+1526042865 source:c:\users\bouaouina\documents\sudokutest5\src\joueur.cpp
+	"Joueur.h"
+
+1526120320 source:c:\users\bouaouina\documents\sudokutest5\src\joueur_humain_assiste.cpp
+	"Joueur_Humain_Assiste.h"
+
+1526120295 source:c:\users\bouaouina\documents\sudokutest5\src\joueur_humain_nonassistee.cpp
+	"Joueur_Humain_NonAssistee.h"
+
+1526084234 source:c:\users\bouaouina\documents\sudokutest5\src\machine_1.cpp
+	"Machine_1.h"
+
+1526138678 source:c:\users\bouaouina\documents\sudokutest5\src\machine_2.cpp
+	"Machine_2.h"
+
+1526147638 c:\users\bouaouina\documents\sudokutest5\include\machine_2.h
+	"Joueur.h"
+
+1526165697 source:c:\users\bouaouina\documents\sudokutest5\src\partie.cpp
+	"Partie.h"
+
+1526168254 source:c:\users\bouaouina\documents\sudokutest5\src\sudoku.cpp
+	"Sudoku.h"
+
+1526152544 c:\users\bouaouina\documents\sudokutest5\include\machine_3.h
+	<queue>
+	"Joueur.h"
+
+1526152826 source:c:\users\bouaouina\documents\sudokutest5\src\machine_3.cpp
+	"Machine_3.h"
+
+1526166220 c:\users\bouaouina\documents\sudokutest5\include\generateur_2.h
+	<ctime>
+	<cstdlib>
+	"Generateur.h"
+
+1526166220 source:c:\users\bouaouina\documents\sudokutest5\src\generateur_2.cpp
+	"Generateur_2.h"
+
+1513186803 c:\users\bouaouina\documents\sudokutest5\include\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1526168876 c:\users\bouaouina\documents\sudokutest5\include\machine_4.h
+	<stack>
+	"Joueur.h"
+
+1526168996 source:c:\users\bouaouina\documents\sudokutest5\src\machine_4.cpp
+	"Machine_4.h"
+
+1526202092 source:c:\users\bouaouina\desktop\sudokutest5\main.cpp
+	<iostream>
+	"Partie.h"
+
+1526169018 c:\users\bouaouina\desktop\sudokutest5\include\partie.h
+	<fstream>
+	<string>
+	<cstdlib>
+	"Sudoku.h"
+	"Joueur_Humain_Assiste.h"
+	"Joueur_Humain_NonAssistee.h"
+	"Machine_1.h"
+	"Generateur_1.h"
+	"Generateur_Saisie.h"
+	"Machine_2.h"
+	"Machine_3.h"
+	"Generateur_2.h"
+	"Machine_4.h"
+
+1526179698 c:\users\bouaouina\desktop\sudokutest5\include\sudoku.h
+	<iostream>
+	<termcolor.hpp>
+	"Coup.h"
+	"Cases.h"
+
+1513186803 c:\users\bouaouina\desktop\sudokutest5\include\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1526128319 c:\users\bouaouina\desktop\sudokutest5\include\coup.h
+
+1526131254 c:\users\bouaouina\desktop\sudokutest5\include\cases.h
+	<vector>
+
+1526199798 c:\users\bouaouina\desktop\sudokutest5\include\joueur_humain_assiste.h
+	<iostream>
+	"Joueur.h"
+
+1526199798 c:\users\bouaouina\desktop\sudokutest5\include\joueur.h
+	"Sudoku.h"
+
+1526199798 c:\users\bouaouina\desktop\sudokutest5\include\joueur_humain_nonassistee.h
+	<iostream>
+	"Joueur.h"
+
+1526199798 c:\users\bouaouina\desktop\sudokutest5\include\machine_1.h
+	"Joueur.h"
+
+1526153747 c:\users\bouaouina\desktop\sudokutest5\include\generateur_1.h
+	<ctime>
+	<cstdlib>
+	"Generateur.h"
+
+1526131351 c:\users\bouaouina\desktop\sudokutest5\include\generateur.h
+	"Sudoku.h"
+
+1526131478 c:\users\bouaouina\desktop\sudokutest5\include\generateur_saisie.h
+	<iostream>
+	"Generateur.h"
+
+1526199798 c:\users\bouaouina\desktop\sudokutest5\include\machine_2.h
+	"Joueur.h"
+
+1526199798 c:\users\bouaouina\desktop\sudokutest5\include\machine_3.h
+	<queue>
+	"Joueur.h"
+
+1526166220 c:\users\bouaouina\desktop\sudokutest5\include\generateur_2.h
+	<ctime>
+	<cstdlib>
+	"Generateur.h"
+
+1526199798 c:\users\bouaouina\desktop\sudokutest5\include\machine_4.h
+	<stack>
+	"Joueur.h"
+	"Cases_Simples.h"
+
+1526128256 source:c:\users\bouaouina\desktop\sudokutest5\src\cases.cpp
+	"Cases.h"
+
+1526128328 source:c:\users\bouaouina\desktop\sudokutest5\src\coup.cpp
+	"Coup.h"
+
+1526131026 source:c:\users\bouaouina\desktop\sudokutest5\src\generateur.cpp
+	"Generateur.h"
+
+1526175760 source:c:\users\bouaouina\desktop\sudokutest5\src\generateur_1.cpp
+	"Generateur_1.h"
+
+1526176070 source:c:\users\bouaouina\desktop\sudokutest5\src\generateur_2.cpp
+	"Generateur_2.h"
+
+1526176334 source:c:\users\bouaouina\desktop\sudokutest5\src\generateur_saisie.cpp
+	"Generateur_Saisie.h"
+
+1526042865 source:c:\users\bouaouina\desktop\sudokutest5\src\joueur.cpp
+	"Joueur.h"
+
+1526199582 source:c:\users\bouaouina\desktop\sudokutest5\src\joueur_humain_assiste.cpp
+	"Joueur_Humain_Assiste.h"
+
+1526199608 source:c:\users\bouaouina\desktop\sudokutest5\src\joueur_humain_nonassistee.cpp
+	"Joueur_Humain_NonAssistee.h"
+
+1526199798 source:c:\users\bouaouina\desktop\sudokutest5\src\machine_1.cpp
+	"Machine_1.h"
+
+1526199798 source:c:\users\bouaouina\desktop\sudokutest5\src\machine_2.cpp
+	"Machine_2.h"
+
+1526199798 source:c:\users\bouaouina\desktop\sudokutest5\src\machine_3.cpp
+	"Machine_3.h"
+
+1526199798 source:c:\users\bouaouina\desktop\sudokutest5\src\machine_4.cpp
+	"Machine_4.h"
+
+1526178496 source:c:\users\bouaouina\desktop\sudokutest5\src\partie.cpp
+	"Partie.h"
+
+1526199362 source:c:\users\bouaouina\desktop\sudokutest5\src\sudoku.cpp
+	"Sudoku.h"
+
+1526198985 c:\users\bouaouina\desktop\sudokutest5\include\cases_simples.h
+
+1526197514 source:c:\users\bouaouina\desktop\sudokutest5\src\cases_simples.cpp
+	"Cases_Simples.h"
+
+1526237226 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\main.cpp
+	<iostream>
+	"Partie.h"
+
+1526239250 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\partie.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstdlib>
+	<typeinfo>
+	"windows.h"
+	"Sudoku.h"
+	"Joueur_Humain_Assiste.h"
+	"Joueur_Humain_NonAssistee.h"
+	"Machine_1.h"
+	"Machine_2.h"
+	"Machine_3.h"
+	"Machine_4.h"
+	"Generateur_1.h"
+	"Generateur_Saisie.h"
+
+1526179698 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\sudoku.h
+	<iostream>
+	<termcolor.hpp>
+	"Coup.h"
+	"Cases.h"
+
+1513186803 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1526128319 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\coup.h
+
+1526131254 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\cases.h
+	<vector>
+
+1526199798 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\joueur_humain_assiste.h
+	<iostream>
+	"Joueur.h"
+
+1526237963 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\joueur.h
+	"windows.h"
+	"Sudoku.h"
+
+1526199798 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\joueur_humain_nonassistee.h
+	<iostream>
+	"Joueur.h"
+
+1526199798 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\machine_1.h
+	"Joueur.h"
+
+1526153747 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\generateur_1.h
+	<ctime>
+	<cstdlib>
+	"Generateur.h"
+
+1526131351 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\generateur.h
+	"Sudoku.h"
+
+1526131478 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\generateur_saisie.h
+	<iostream>
+	"Generateur.h"
+
+1526247786 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\machine_2.h
+	"Joueur.h"
+
+1526199798 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\machine_3.h
+	<queue>
+	"Joueur.h"
+
+1526166220 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\generateur_2.h
+	<ctime>
+	<cstdlib>
+	"Generateur.h"
+
+1526199798 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\machine_4.h
+	<stack>
+	"Joueur.h"
+	"Cases_Simples.h"
+
+1526198985 c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\include\cases_simples.h
+
+1526128256 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\cases.cpp
+	"Cases.h"
+
+1526197514 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\cases_simples.cpp
+	"Cases_Simples.h"
+
+1526128328 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\coup.cpp
+	"Coup.h"
+
+1526131026 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\generateur.cpp
+	"Generateur.h"
+
+1526242639 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\generateur_1.cpp
+	"Generateur_1.h"
+
+1526176070 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\generateur_2.cpp
+	"Generateur_2.h"
+
+1526176334 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\generateur_saisie.cpp
+	"Generateur_Saisie.h"
+
+1526042865 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\joueur.cpp
+	"Joueur.h"
+
+1526241067 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\joueur_humain_assiste.cpp
+	"Joueur_Humain_Assiste.h"
+
+1526241066 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\joueur_humain_nonassistee.cpp
+	"Joueur_Humain_NonAssistee.h"
+
+1526240653 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\machine_1.cpp
+	"Machine_1.h"
+
+1526247241 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\machine_2.cpp
+	"Machine_2.h"
+
+1526240653 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\machine_3.cpp
+	"Machine_3.h"
+
+1526240653 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\machine_4.cpp
+	"Machine_4.h"
+
+1526242385 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\partie.cpp
+	"Partie.h"
+
+1526239918 source:c:\users\bouaouina\desktop\nouveau dossier (3)\sudokutest5\src\sudoku.cpp
+	"Sudoku.h"
+
+1526237226 source:c:\users\bouaouina\pictures\test5\main.cpp
+	<iostream>
+	"Partie.h"
+
+1526239250 c:\users\bouaouina\pictures\test5\include\partie.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstdlib>
+	<typeinfo>
+	"windows.h"
+	"Sudoku.h"
+	"Joueur_Humain_Assiste.h"
+	"Joueur_Humain_NonAssistee.h"
+	"Machine_1.h"
+	"Machine_2.h"
+	"Machine_3.h"
+	"Machine_4.h"
+	"Generateur_1.h"
+	"Generateur_Saisie.h"
+
+1526179698 c:\users\bouaouina\pictures\test5\include\sudoku.h
+	<iostream>
+	<termcolor.hpp>
+	"Coup.h"
+	"Cases.h"
+
+1513186803 c:\users\bouaouina\pictures\test5\include\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1526128319 c:\users\bouaouina\pictures\test5\include\coup.h
+
+1526131254 c:\users\bouaouina\pictures\test5\include\cases.h
+	<vector>
+
+1526199798 c:\users\bouaouina\pictures\test5\include\joueur_humain_assiste.h
+	<iostream>
+	"Joueur.h"
+
+1526237963 c:\users\bouaouina\pictures\test5\include\joueur.h
+	"windows.h"
+	"Sudoku.h"
+
+1526199798 c:\users\bouaouina\pictures\test5\include\joueur_humain_nonassistee.h
+	<iostream>
+	"Joueur.h"
+
+1526199798 c:\users\bouaouina\pictures\test5\include\machine_1.h
+	"Joueur.h"
+
+1526247786 c:\users\bouaouina\pictures\test5\include\machine_2.h
+	"Joueur.h"
+
+1526199798 c:\users\bouaouina\pictures\test5\include\machine_3.h
+	<queue>
+	"Joueur.h"
+
+1526199798 c:\users\bouaouina\pictures\test5\include\machine_4.h
+	<stack>
+	"Joueur.h"
+	"Cases_Simples.h"
+
+1526198985 c:\users\bouaouina\pictures\test5\include\cases_simples.h
+
+1526153747 c:\users\bouaouina\pictures\test5\include\generateur_1.h
+	<ctime>
+	<cstdlib>
+	"Generateur.h"
+
+1526131351 c:\users\bouaouina\pictures\test5\include\generateur.h
+	"Sudoku.h"
+
+1526131478 c:\users\bouaouina\pictures\test5\include\generateur_saisie.h
+	<iostream>
+	"Generateur.h"
+
+1526128256 source:c:\users\bouaouina\pictures\test5\src\cases.cpp
+	"Cases.h"
+
+1526197514 source:c:\users\bouaouina\pictures\test5\src\cases_simples.cpp
+	"Cases_Simples.h"
+
+1526128328 source:c:\users\bouaouina\pictures\test5\src\coup.cpp
+	"Coup.h"
+
+1526131026 source:c:\users\bouaouina\pictures\test5\src\generateur.cpp
+	"Generateur.h"
+
+1526290296 source:c:\users\bouaouina\pictures\test5\src\generateur_1.cpp
+	"Generateur_1.h"
+
+1526176334 source:c:\users\bouaouina\pictures\test5\src\generateur_saisie.cpp
+	"Generateur_Saisie.h"
+
+1526042865 source:c:\users\bouaouina\pictures\test5\src\joueur.cpp
+	"Joueur.h"
+
+1526288003 source:c:\users\bouaouina\pictures\test5\src\joueur_humain_assiste.cpp
+	"Joueur_Humain_Assiste.h"
+
+1526288003 source:c:\users\bouaouina\pictures\test5\src\joueur_humain_nonassistee.cpp
+	"Joueur_Humain_NonAssistee.h"
+
+1526290441 source:c:\users\bouaouina\pictures\test5\src\machine_1.cpp
+	"Machine_1.h"
+
+1526290440 source:c:\users\bouaouina\pictures\test5\src\machine_2.cpp
+	"Machine_2.h"
+
+1526290441 source:c:\users\bouaouina\pictures\test5\src\machine_3.cpp
+	"Machine_3.h"
+
+1526290441 source:c:\users\bouaouina\pictures\test5\src\machine_4.cpp
+	"Machine_4.h"
+
+1526289380 source:c:\users\bouaouina\pictures\test5\src\partie.cpp
+	"Partie.h"
+
+1526239918 source:c:\users\bouaouina\pictures\test5\src\sudoku.cpp
+	"Sudoku.h"
+
+1526237226 source:c:\users\bouaouina\desktop\sudoku_en_c++\main.cpp
+	<iostream>
+	"Partie.h"
+
+1526239250 c:\users\bouaouina\desktop\sudoku_en_c++\include\partie.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstdlib>
+	<typeinfo>
+	"windows.h"
+	"Sudoku.h"
+	"Joueur_Humain_Assiste.h"
+	"Joueur_Humain_NonAssistee.h"
+	"Machine_1.h"
+	"Machine_2.h"
+	"Machine_3.h"
+	"Machine_4.h"
+	"Generateur_1.h"
+	"Generateur_Saisie.h"
+
+1526179698 c:\users\bouaouina\desktop\sudoku_en_c++\include\sudoku.h
+	<iostream>
+	<termcolor.hpp>
+	"Coup.h"
+	"Cases.h"
+
+1513186803 c:\users\bouaouina\desktop\sudoku_en_c++\include\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+
+1526128319 c:\users\bouaouina\desktop\sudoku_en_c++\include\coup.h
+
+1526131254 c:\users\bouaouina\desktop\sudoku_en_c++\include\cases.h
+	<vector>
+
+1526480575 c:\users\bouaouina\desktop\sudoku_en_c++\include\joueur_humain_assiste.h
+	<iostream>
+	"Joueur.h"
+
+1526480575 c:\users\bouaouina\desktop\sudoku_en_c++\include\joueur.h
+	"windows.h"
+	"Sudoku.h"
+
+1526480575 c:\users\bouaouina\desktop\sudoku_en_c++\include\joueur_humain_nonassistee.h
+	<iostream>
+	"Joueur.h"
+
+1526480575 c:\users\bouaouina\desktop\sudoku_en_c++\include\machine_1.h
+	"Joueur.h"
+
+1526480575 c:\users\bouaouina\desktop\sudoku_en_c++\include\machine_2.h
+	"Joueur.h"
+
+1526480575 c:\users\bouaouina\desktop\sudoku_en_c++\include\machine_3.h
+	<queue>
+	"Joueur.h"
+
+1526480575 c:\users\bouaouina\desktop\sudoku_en_c++\include\machine_4.h
+	<stack>
+	"Joueur.h"
+	"Cases_Simples.h"
+
+1526198985 c:\users\bouaouina\desktop\sudoku_en_c++\include\cases_simples.h
+
+1526153747 c:\users\bouaouina\desktop\sudoku_en_c++\include\generateur_1.h
+	<ctime>
+	<cstdlib>
+	"Generateur.h"
+
+1526131351 c:\users\bouaouina\desktop\sudoku_en_c++\include\generateur.h
+	"Sudoku.h"
+
+1526131478 c:\users\bouaouina\desktop\sudoku_en_c++\include\generateur_saisie.h
+	<iostream>
+	"Generateur.h"
+
+1526128256 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\cases.cpp
+	"Cases.h"
+
+1526197514 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\cases_simples.cpp
+	"Cases_Simples.h"
+
+1526128328 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\coup.cpp
+	"Coup.h"
+
+1526131026 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\generateur.cpp
+	"Generateur.h"
+
+1526290296 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\generateur_1.cpp
+	"Generateur_1.h"
+
+1526176334 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\generateur_saisie.cpp
+	"Generateur_Saisie.h"
+
+1526042865 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\joueur.cpp
+	"Joueur.h"
+
+1526480575 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\joueur_humain_assiste.cpp
+	"Joueur_Humain_Assiste.h"
+
+1526480575 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\joueur_humain_nonassistee.cpp
+	"Joueur_Humain_NonAssistee.h"
+
+1526480575 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\machine_1.cpp
+	"Machine_1.h"
+
+1526480575 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\machine_2.cpp
+	"Machine_2.h"
+
+1526480575 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\machine_3.cpp
+	"Machine_3.h"
+
+1526480575 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\machine_4.cpp
+	"Machine_4.h"
+
+1526480575 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\partie.cpp
+	"Partie.h"
+
+1526239918 source:c:\users\bouaouina\desktop\sudoku_en_c++\src\sudoku.cpp
+	"Sudoku.h"
+
